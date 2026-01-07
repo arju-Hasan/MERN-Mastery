@@ -181,7 +181,7 @@ const App: React.FC = () => {
           <p className="flex items-center justify-center gap-1">
             © 2025 MERN Mastery • Developed by-
             <a
-              href="https://arju-hasan.netlify.app/"
+              href="https://arju-hasan.netlify.app"
               className="text-blue-600 hover:cursor-pointer"
             >
               Arju-hasan
